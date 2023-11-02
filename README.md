@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/D8pgJSsZSm3AI/giphy.gif" alt="Hi there GIF">
+</div>
+
 ### Hi there 👋
 
 ![Hi there GIF](https://media.giphy.com/media/D8pgJSsZSm3AI/giphy.gif)
