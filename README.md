@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Hi, my name is Gianfranco Navas Fernandini i'm devoted to mastering the art of JavaScript React, Next.js and WordPress..
+<iframe src="https://giphy.com/embed/kaBU6pgv0OsPHz2yxy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jake-gyllenhaal-bye-kaBU6pgv0OsPHz2yxy">via GIPHY</a></p>
+
+- 💥 Hi, my name is Gianfranco Navas Fernandini i'm devoted to mastering the art of JavaScript React, Next.js and WordPress..
 - 📫 How to reach me: https://www.linkedin.com/in/gianfranconavasfernandiniwebdeveloper/
 
 <!--
