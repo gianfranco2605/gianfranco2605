@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hi there GIF](https://media.giphy.com/media/Fu3OjBQiCs3s0ZuLY3/giphy.gif)
+![Hi there GIF](https://media.giphy.com/media/D8pgJSsZSm3AI/giphy.gif)
 
 - 💥 Hi, my name is Gianfranco Navas Fernandini. I'm devoted to mastering the art of JavaScript, React, Next.js, and WordPress.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gianfranconavasfernandiniwebdeveloper/)
