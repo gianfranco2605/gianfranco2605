@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 Hi, my name is Gianfranco Navas Fernandini i'm devoted to mastering the art of JavaScript React, Next.js and WordPress..
+- 📫 How to reach me: https://www.linkedin.com/in/gianfranconavasfernandiniwebdeveloper/
+
 <!--
 **gianfranco2605/gianfranco2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
