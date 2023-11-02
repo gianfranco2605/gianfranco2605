@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/kaBU6pgv0OsPHz2yxy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jake-gyllenhaal-bye-kaBU6pgv0OsPHz2yxy">via GIPHY</a></p>
+![Hi there GIF](https://media2.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif)
 
-- 💥 Hi, my name is Gianfranco Navas Fernandini i'm devoted to mastering the art of JavaScript React, Next.js and WordPress..
-- 📫 How to reach me: https://www.linkedin.com/in/gianfranconavasfernandiniwebdeveloper/
+- 💥 Hi, my name is Gianfranco Navas Fernandini. I'm devoted to mastering the art of JavaScript, React, Next.js, and WordPress.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gianfranconavasfernandiniwebdeveloper/)
 
 <!--
 **gianfranco2605/gianfranco2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
