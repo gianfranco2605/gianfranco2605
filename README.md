@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<div style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/D8pgJSsZSm3AI/giphy.gif" alt="Hi there GIF">
-</div>
+
+<img src="https://media.giphy.com/media/D8pgJSsZSm3AI/giphy.gif" alt="Hi there GIF">
+
 - 💥 Hi, my name is Gianfranco Navas Fernandini. I'm devoted to mastering the art of JavaScript, React, Next.js, and WordPress.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gianfranconavasfernandiniwebdeveloper/)
+
 
 <!--
 **gianfranco2605/gianfranco2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
