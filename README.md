@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/D8pgJSsZSm3AI/giphy.gif" alt="Hi there GIF">
 
-- 💥 Hi, my name is Gianfranco Navas Fernandini. I'm devoted to mastering the art of JavaScript, React, Next.js, and WordPress.
+- 💥 Passionate about  React,  Next.js WordPress and more. On a journey to perfect my web development skills 🚀. Connecting and collaborating with fellow coders. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gianfranconavasfernandiniwebdeveloper/)
 
 
